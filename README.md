@@ -7,13 +7,20 @@
 
 - 🔭 I’m currently working on an [Escape Room](https://remescape.com/)
 
-- 🌱 I’m currently learning **React & MongoDB**
+- 🌱 I’m currently learning **Mongoose & MongoDB**
+
+- 💬 Ask me about HTML & CSS, JavaScript, React/Redux, node.js, Express, PostgreSQL, Bootstrap
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://matthewherringshaw.com/)
 
 - 📫 How to reach me **matt.herringshaw@yahoo.com**
 
 - ⚡ Fun fact **I currently live in Lubbock, Tx with my beautiful wife and 2 perfect pups.**
+
+<p align="center">
+    <img src="![hiking](https://user-images.githubusercontent.com/111372619/212731531-ac6e31a3-b970-495f-8ad3-7b6225ea66b4.jpg)
+" width="auto" height="250px">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
