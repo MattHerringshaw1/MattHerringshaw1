@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Herringshaw</h1>
-<h3 align="center">A passionate frontend developer from Lubbock, Tx</h3>
+<h3 align="center">A passionate full-stack developer from Lubbock, Tx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattherringshaw1&label=Profile%20views&color=0e75b6&style=flat" alt="mattherringshaw1" /> </p>
 
