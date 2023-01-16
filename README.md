@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattherringshaw1" alt="mattherringshaw1" /></a> </p>
 
-- 🔭 I’m currently working on [Escape Room](https://remescape.com/)
+- 🔭 I’m currently working on an [Escape Room](https://remescape.com/)
 
 - 🌱 I’m currently learning **React & MongoDB**
 
-- 👨‍💻 All of my projects are available at [matthewherringshaw.com](matthewherringshaw.com)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://matthewherringshaw.com/)
 
 - 📫 How to reach me **matt.herringshaw@yahoo.com**
 
